@@ -34,7 +34,7 @@ int (*check_format(const char *format))(va_list)
 }
 
 /**
- * _printf function for format printing
+ * _printf - function for format printing
  * @format: list of arguments to printing
  * Return: Number of Characters to printing
  */
